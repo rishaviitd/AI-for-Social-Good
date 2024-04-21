@@ -59,6 +59,8 @@ constitutes a claim within a larger body of text.
 ## 5. Evaluation Criteria
 <img src="evaluation.png"/>
 
+## 5. Ranked 6th at the end of the Competition 
+<img src="result.png"/>
 
 
 
