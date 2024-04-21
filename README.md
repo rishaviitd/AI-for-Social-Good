@@ -1,5 +1,5 @@
 # Fighting Against Fake News (ARIES-IITD’s hackathon)
-## Overview
+## 1. Overview
 The Hackathon was focused on AI for Social
 Good, specifically tailored to address the urgent challenge of combating fake news.
 
@@ -21,11 +21,31 @@ measures, treatments, and vaccine information.</li>
 democratic process by influencing elections and public opinion through misinformation.
 Hence, it becomes essential to combat fake news.</li>
 </ul>
+
+## 2. Problem Statement
+
+The problem statement for this Hackathon revolves around developing Machine Learning
+models capable of detecting and identifying claims in social media posts. It is hosted on
+Kaggle. Participants will be working on two critical tasks:
+
+Claim Detection: The first task involves binary classification, where participants will
+determine whether a given piece of text from a social media post is making a claim
+or not. This task is essential for filtering noise and focusing on potentially misleading
+information.
+
+Claim: A claim is a statement or assertion that presents information as being true, factual,
+or at least worthy of acceptance or belief. Claims are often made to express an opinion, convey
+a fact, or argue a point.
+Examples:
+”The Great Wall of China is visible from space.” : Factual
+”Vaccines cause autism.” : Fake
+<img src="data-1.png"/>
+
+
 <img src="plan of action.png"/>
 <img src="flow.png"/>
 <img src="flow diagram.png"/>
 <img src="transfer learning.png"/>
-<img src="data-1.png"/>
 <img src="data-2.png"/>
 <img src="evaluation.png"/>
 <img src="sub.png"/>
