@@ -28,12 +28,12 @@ The problem statement for this Hackathon revolves around developing Machine Lear
 models capable of detecting and identifying claims in social media posts. It is hosted on
 Kaggle. Participants will be working on two critical tasks:
 
-Claim Detection: The first task involves binary classification, where participants will
+**Claim Detection:** The first task involves binary classification, where participants will
 determine whether a given piece of text from a social media post is making a claim
 or not. This task is essential for filtering noise and focusing on potentially misleading
 information.
 
-Claim: A claim is a statement or assertion that presents information as being true, factual,
+**Claim:** A claim is a statement or assertion that presents information as being true, factual,
 or at least worthy of acceptance or belief. Claims are often made to express an opinion, convey
 a fact, or argue a point.
 
@@ -43,7 +43,7 @@ Examples:"The Great Wall of China is visible from space.” : Factual  | "Vaccin
 
 <img src="data-1.png"/>
 
-Claim Span Identification: It is a critical task in the process of fact-checking and
+**Claim Span Identification:** It is a critical task in the process of fact-checking and
 misinformation analysis, focusing on precisely locating the specific segment of text that
 constitutes a claim within a larger body of text.
 
