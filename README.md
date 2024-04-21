@@ -39,6 +39,7 @@ a fact, or argue a point.
 Examples:
 ”The Great Wall of China is visible from space.” : Factual
 ”Vaccines cause autism.” : Fake
+
 <img src="data-1.png"/>
 
 
