@@ -62,7 +62,7 @@ constitutes a claim within a larger body of text.
 ## 6. Ranked 6th at the end of the Competition 
 <img src="Result.png"/>
 
-
-
+## Visit the competetion on 
+https://www.kaggle.com/competitions/ai-for-social-good-aries-iitd-x-kaizen-24/leaderboard
 
 
