@@ -43,12 +43,16 @@ Examples:"The Great Wall of China is visible from space.” : Factual  | "Vaccin
 
 <img src="data-1.png"/>
 
+Claim Span Identification: It is a critical task in the process of fact-checking and
+misinformation analysis, focusing on precisely locating the specific segment of text that
+constitutes a claim within a larger body of text.
+
+<img src="data-2.png"/>
 
 <img src="plan of action.png"/>
 <img src="flow.png"/>
 <img src="flow diagram.png"/>
 <img src="transfer learning.png"/>
-<img src="data-2.png"/>
 <img src="evaluation.png"/>
 <img src="sub.png"/>
 
