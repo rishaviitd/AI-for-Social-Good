@@ -1,4 +1,4 @@
-# Fighting Against Fake News (ARIES-IITD’s hackathon)
+# Fighting Against Fake News (ARIES-IITD’s Kaggle hackathon)
 ## 1. Overview
 The Hackathon was focused on AI for Social
 Good, specifically tailored to address the urgent challenge of combating fake news.
