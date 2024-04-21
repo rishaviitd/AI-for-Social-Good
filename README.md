@@ -49,11 +49,13 @@ constitutes a claim within a larger body of text.
 
 <img src="data-2.png"/>
 
-
-<img src="plan of action.png"/>
-<img src="flow.png"/>
-<img src="flow diagram.png"/>
+## 3. Used Transfer Learning with BERT
 <img src="transfer learning.png"/>
+<img src="flow.png"/>
+## 4. Plan Of action
+<img src="plan of action.png"/>
+
+<img src="flow diagram.png"/>
 <img src="evaluation.png"/>
 <img src="sub.png"/>
 
