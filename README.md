@@ -36,9 +36,10 @@ information.
 Claim: A claim is a statement or assertion that presents information as being true, factual,
 or at least worthy of acceptance or belief. Claims are often made to express an opinion, convey
 a fact, or argue a point.
-Examples:
-”The Great Wall of China is visible from space.” : Factual
-”Vaccines cause autism.” : Fake
+
+Examples:"The Great Wall of China is visible from space.” : Factual  | "Vaccines cause autism.” : Fake
+
+
 
 <img src="data-1.png"/>
 
