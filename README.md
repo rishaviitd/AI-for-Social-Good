@@ -1,1 +1,1 @@
-# AI-for-Social-Good_NSS-Hackathon
+# Fighting Against Fake News
